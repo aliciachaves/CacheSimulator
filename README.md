@@ -17,7 +17,7 @@ The script `simulador.py` aims to mimic a cache memory system based on parameter
 The script can be executed from the command line using the following arguments:
 
 ```bash
-python simulador.py <cache_size> <line_size> <num_sets> <memory_access_file>
+python3 simulador.py <cache_size> <line_size> <num_sets> <memory_access_file>
 ```
 
 - `<cache_size>`: Specifies the size of the cache in bytes.
